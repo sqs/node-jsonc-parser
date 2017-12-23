@@ -1,5 +1,5 @@
 {
-  "name": "jsonc-parser",
+  "name": "@sqs/jsonc-parser",
   "version": "1.0.0",
   "description": "Scanner and parser for JSON with comments.",
   "main": "./lib/main.js",
